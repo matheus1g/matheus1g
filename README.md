@@ -1,4 +1,4 @@
-<a href="#"><img aling="center" width="30%" height="auto" src="https://i.imgur.com/RHBnMHt.png" height="50px"/></a>
+<a aling="center" href="#"><img aling="center" width="30%" height="auto" src="https://i.imgur.com/RHBnMHt.png" height="50px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Matheus</h1>
 <h3 align="center">I'm a passionate programming student.</h3>
