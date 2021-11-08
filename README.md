@@ -1,16 +1,31 @@
-### Hi there 👋
+<a href="#"><img width="100%" height="auto" src=https://imgur.com/a/tGiR0gK" height="175px"/></a>
 
-<!--
-**matheus1g/matheus1g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Matheus</h1>
+<h3 align="center">I'm a passionate programming student.</h3>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🙋‍♂️ About Me
+
+- 🌱 I’m currently learning **JavaScript and React.**
+
+- 📫 How to reach me **matheusgomestosta8@gmail.com**
+
+- ⚡ Fun fact **Nothing better than a game at the end of the day**
+
+
+## 📊 My Github Stats
+
+  <br/>
+  <a href="https://github.com/matheus1g/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus1g&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+
+<br/>
+<br/>
+
+## Connect with me:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/matheusGtosta/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/gomes.pngr/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+
+</p>
