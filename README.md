@@ -1,4 +1,6 @@
-<div align=”center”><img aling="center" width="30%" height="auto" src="https://i.imgur.com/RHBnMHt.png" height="50px"/></div>
+<p align="center">
+  <img width="30%" height="50" src="https://i.imgur.com/RHBnMHt.png">
+</p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Matheus</h1>
 <h3 align="center">I'm a passionate programming student.</h3>
