@@ -2,8 +2,8 @@
   <img width="30%" height="auto" src="https://i.imgur.com/RHBnMHt.png">
 </p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Matheus</h1>
-<h3 align="center">I'm a passionate programming student.</h3>
+<h1 align="center">Hi Dev!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h3 align="center"></h3>
 
 
 ## 🙋‍♂️ About Me
